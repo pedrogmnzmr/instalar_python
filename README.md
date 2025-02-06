@@ -1,6 +1,6 @@
 # instalar_python
 
-instalar python 3.9
+instalar python 3.9 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
 
 py -3.9 -m venv cesar_env // creamos entronovirtual
 
